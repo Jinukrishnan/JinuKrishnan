@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer</h3>
 
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="jinukrishnan" width="500px" />
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="jinukrishnan" width="400px" />
 
 
 <p align="left"> <a href="https://twitter.com/jinukrishnan" target="blank"><img src="https://img.shields.io/twitter/follow/jinukrishnan?logo=twitter&style=for-the-badge" alt="jinukrishnan" /></a> </p>

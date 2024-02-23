@@ -4,9 +4,9 @@
 
 <div style="display:flex;">
   <div>
-    <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="jinukrishnan" width="400px" /> </p>
+    <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="jinukrishnan" width="50%" /> </p>
 </div>
-<div>
+<div style="width:50%;">
 <p align="left"> <a href="https://twitter.com/jinukrishnan" target="blank"><img src="https://img.shields.io/twitter/follow/jinukrishnan?logo=twitter&style=for-the-badge" alt="jinukrishnan" /></a> </p>
 
 - 💬 Ask me about **Flutter,Mern,python**

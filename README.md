@@ -2,11 +2,10 @@
 <h3 align="center">A passionate Full-Stack developer</h3>
 
 
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="jinukrishnan" width="50%" />
 
-    <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="jinukrishnan" width="50%" /> </p>
 
-
-<p align="right"> <a href="https://twitter.com/jinukrishnan" target="blank"><img src="https://img.shields.io/twitter/follow/jinukrishnan?logo=twitter&style=for-the-badge" alt="jinukrishnan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jinukrishnan" target="blank"><img src="https://img.shields.io/twitter/follow/jinukrishnan?logo=twitter&style=for-the-badge" alt="jinukrishnan" /></a> </p>
 
 - 💬 Ask me about **Flutter,Mern,python**
 
